@@ -12,8 +12,6 @@ Comando: npm init -y
 
 A função do package.json é gerenciar as informações e de script e dependencia da aplicação.
 
-npm install -g npm 'to update'
-
 ## Instalação live server
 
 Comando: npm install -s live-server
